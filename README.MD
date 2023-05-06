@@ -7,3 +7,6 @@
 
 ### Action - get
 ![action - get](https://github.com/ukrwebprom/Node-js-module1/blob/main/assets/get.JPG)
+
+### Action - add
+![action - add](https://github.com/ukrwebprom/Node-js-module1/blob/main/assets/add.JPG)
