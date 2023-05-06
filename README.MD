@@ -10,3 +10,6 @@
 
 ### Action - add
 ![action - add](https://github.com/ukrwebprom/Node-js-module1/blob/main/assets/add.JPG)
+
+### Action - remove
+![action - add](https://github.com/ukrwebprom/Node-js-module1/blob/main/assets/remove.JPG)
