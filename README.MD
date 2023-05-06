@@ -5,3 +5,5 @@
 ### Action - list
 ![action - list](https://github.com/ukrwebprom/Node-js-module1/blob/main/assets/list.JPG)
 
+### Action - get
+![action - get](https://github.com/ukrwebprom/Node-js-module1/blob/main/assets/get.JPG)
