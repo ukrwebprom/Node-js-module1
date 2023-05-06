@@ -2,5 +2,5 @@
 
 Скрины выполнения команд:
 
-![Enter chat](./assets/relax-world.jpg)
+![Enter chat]('https://github.com/ukrwebprom/Node-js-module1/blob/main/assets/relax-world.JPG')
 
