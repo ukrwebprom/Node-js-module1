@@ -2,5 +2,6 @@
 
 Скрины выполнения команд:
 
-![Enter chat](https://github.com/ukrwebprom/Node-js-module1/blob/main/assets/relax-world.JPG)
+### Action - list
+![action - list](https://github.com/ukrwebprom/Node-js-module1/blob/main/assets/list.JPG)
 
